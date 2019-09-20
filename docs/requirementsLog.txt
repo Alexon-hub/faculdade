@@ -1,0 +1,6 @@
+Calcular Média Aritmetica (1 - 100 valores)
+Calcular Notas do Aluno - Média ponderada (3 Valores)
+AP1 20%, AP2 30%, AP3 50%
+
+Calcular Mediana, Amplitude, Variância (10 Valores)
+
